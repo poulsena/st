@@ -108,7 +108,7 @@ char *termname = "st-256color";
 unsigned int tabspaces = 8;
 
 /* bg opacity */
-float alpha = 0.95;
+float alpha = 0.98;
 float alphaOffset = 0.0;
 float alphaUnfocus;
 
